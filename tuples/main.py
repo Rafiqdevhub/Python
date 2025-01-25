@@ -5,7 +5,7 @@ names=tuple(('user1','user2','user3','user4','user5'))
 
 values=(1,2,3,4,5)
 
-(x,y,*z, h)=values
+(x,y,*z, h)=values  # unpacking tuples
 print(x)
 print(y)
 print(z)

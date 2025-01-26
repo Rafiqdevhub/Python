@@ -1,4 +1,4 @@
-welcome = "Welcome to Python Programming Language for AI."
+welcome = "\nWelcome to Python Programming Language for AI."
 print(welcome)
 
 line01 = "********************"  

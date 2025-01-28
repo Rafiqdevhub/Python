@@ -1,6 +1,7 @@
 from math import pi
 import random as rdm
 import fun_fact
+from rps import rock_paper_scissors
 
 # print(math.sqrt(16))
 # print(math.pi)
@@ -20,8 +21,10 @@ import fun_fact
 # data=rdm.seed(10)
 # print(data)
 
-print(fun_fact.capital)
-fun_fact.ran_fun_fact()
+# print(fun_fact.capital)
+# fun_fact.ran_fun_fact()
 
-print(__name__)
-print(fun_fact.__name__)
+# print(__name__)
+# print(fun_fact.__name__)
+
+rock_paper_scissors()

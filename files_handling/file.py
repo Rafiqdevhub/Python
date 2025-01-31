@@ -1,4 +1,5 @@
 import os
+
 # Read the file
 
 f=open("names.txt","r")

@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+resume_critiquer.egg-info/PKG-INFO
+resume_critiquer.egg-info/SOURCES.txt
+resume_critiquer.egg-info/dependency_links.txt
+resume_critiquer.egg-info/requires.txt
+resume_critiquer.egg-info/top_level.txt
